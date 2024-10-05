@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989167218058",
+    "project_id": "patientapp-47e59",
+    "storage_bucket": "patientapp-47e59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989167218058:android:7e0dc3723319e167a06c73",
+        "android_client_info": {
+          "package_name": "com.healthgrate.patient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxK5iU24UvnCf2_9LCL4Efay8H2FrmuBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
