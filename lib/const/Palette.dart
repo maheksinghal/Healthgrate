@@ -38,4 +38,14 @@ class Palette {
   static const Color tealAccent = Color(0xFF64FFDA);
 
   static const Color tabBar = Color(0xffDCEEFE);
+
+  static const Color login = Color(0xff3c7962);
+
+  static const Color greenAccent = Color(0xFF1eccd3);
+
+  static const Color greyNew = Color(0xFF888888);
+
+  static const Color lightGrey = Color(0xFFdfdfdf);
+
+  static const Color background = Color(0xFFf4f6ff);
 }
